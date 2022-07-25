@@ -1,0 +1,9 @@
+genotypename:    AD2463.pruned.geno
+snpname:         AD2463.pruned.snp
+indivname:       AD2463.pruned.ind
+evecoutname:     AD2463.pca.evec
+evaloutname:     AD2463.pca.eval
+numoutevec: 10
+numoutlieriter: 0
+familynames:     NO
+numthreads:   6

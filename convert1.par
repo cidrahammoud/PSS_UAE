@@ -1,0 +1,8 @@
+genotypename: subset.geno
+snpname: subset.snp
+indivname: subset.ind
+outputformat:    PACKEDPED
+genotypeoutname: subset.bed
+snpoutname:      subset.bim
+indivoutname:    subset.fam
+familynames:     NO

@@ -1,0 +1,1 @@
+grep -h CV slurm-49535***_*.out > CV_error2

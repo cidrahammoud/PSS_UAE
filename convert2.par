@@ -1,0 +1,8 @@
+genotypename: AD2463.pruned.bed
+snpname: AD2463.pruned.new.bim
+indivname: AD2463.pruned.new.fam
+outputformat:    PACKEDANCESTRYMAP
+genotypeoutname: AD2463.pruned.geno
+snpoutname:      AD2463.pruned.snp
+indivoutname:    AD2463.pruned.ind
+familynames:     NO

@@ -1,0 +1,9 @@
+genotypename: subset_final.geno
+snpname: subset_final.snp
+indivname: subset_final.ind
+outputformat: PACKEDPED   
+genotypeoutname: subset_final.bed
+snpoutname:      subset_final.bim
+indivoutname:    subset_final.fam
+familynames:     NO
+poplistname:	populations_final
